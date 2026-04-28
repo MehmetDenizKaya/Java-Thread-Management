@@ -50,6 +50,3 @@ When the program starts, it prompts for the following values:
 ## 🏁 Ending the Game
 
 The simulation continues until one of the rabbits reaches the final box in the track. Once the race ends, the final score (carrot count) for each rabbit is displayed in the console.
-
----
-*Developed as part of the Seng 315 course requirements.*
